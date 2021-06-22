@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+## Tour of Heroes
+
+Tour of Heroes is a very good tutorial for Angular beginners. This tutorial on the official website gives you the opportunity to make a mini project. It also provides an introduction to key application design concepts, tools, and terminology, as well as the ability to build your own application from scratch, providing experience with the typical development process.
+
+[Tour of Heroes](https://angular.io/tutorial)
